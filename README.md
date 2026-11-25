@@ -19,8 +19,8 @@ face detections, blurred frames, and near-duplicate frames), high-quality images
 were retained across the six affective states and partitioned at the subject and
 session level to prevent identity, session, and frame-level leakage.
 
-A small number of sample images are provided in the `samples/` folder for
-illustration only. These samples are shared with the consent of the depicted
+A small number of sample images are provided in this repository (named by their affective class) for illustration only.
+These samples are shared with the consent of the depicted
 participants; they are a limited, representative subset and do not constitute the
 full dataset.
 
