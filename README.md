@@ -26,9 +26,8 @@ full dataset.
 
 ## Dataset Availability
 
-The full dataset is available from the corresponding author on request,
-subject to the ethical-approval and participant-consent conditions under which the
-data were collected. Because the data contain sensitive biometric information of
+The full dataset is available from the corresponding author on request.
+Because the data contain sensitive biometric information of
 students, access is granted only for non-commercial academic research and under
 appropriate data-protection terms.
 
